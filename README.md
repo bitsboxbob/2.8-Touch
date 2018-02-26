@@ -18,6 +18,7 @@ Uno 9 --1k/1k-- DC\
 Uno 10 --1k/1k-- CS\
 0V ---- GND\
 3V3 ---- Vcc\
+Uno 2 --330R--LED---0V
 Note: MISO is left unconnected.\
 To avoid any risk of overload an independent 3.3V supply was used rather than the one provided by the Uno.\
 The URTouch library is available from https://github.com/f1rmb/URTouch
