@@ -19,4 +19,4 @@ Uno 10 --1k/1k-- CS\
 0V ---- GND\
 3V3 ---- Vcc\
 Note: MISO is left unconnected.\
-An independent 3.3V supply was used rather than the one provided by the Uno, which may not be up to the task.
+To avoid any risk of overload an independent 3.3V supply was used rather than the one provided by the Uno.
